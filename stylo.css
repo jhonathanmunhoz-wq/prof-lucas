@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(255, 204, 0); 
+    color: rgb(250, 246, 215);
+    display: flex; /*organiza os elementos*/
+    justify-content: flex-end;
+    margin-top: 150px; /*define margem do topo*/
+}
+img{
+    width: 250px;
+}
